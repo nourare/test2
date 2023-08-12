@@ -1,0 +1,39 @@
+H3{
+    color: aqua;
+}
+    H1{
+        margin: 10px;
+        padding: 8px;
+        width: 500PX;
+        height: 50px;
+    border:solid black 2PX   ;
+}
+ img{ 
+    margin: 40px;
+width: 500px;
+height: 400px; 
+}
+p{
+    padding: 10px;
+    color:black;
+}
+hr{
+    border-width:2px ;
+    border-color:black ;
+    border-style:solid;
+}
+ul{
+    list-style:none;
+}
+div {
+    width: 700px;
+    border: solid black 3px;
+    background-color: rgb(31, 118, 118);
+    ;
+}
+.b{
+    width: 600px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    border: solid black ;
+}
